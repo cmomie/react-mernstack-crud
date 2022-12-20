@@ -10,11 +10,10 @@ Welcome to the Student Tracker. This MERN Stack application is created with the 
 4. As a user, I want to be able to delete a student from the MongoDB database. 
 
 ## Overview:
-<img width="400" alt="pic1" src="https://user-images.githubusercontent.com/57623682/208757047-fac3c0de-256f-4c07-9862-d5a3c8f1f99e.PNG">
+<img width="400" alt="pic1" src="https://user-images.githubusercontent.com/57623682/208758267-f69c4164-e517-4685-aa08-e998ef805502.PNG">
+<img width="400" alt="pic2" src="https://user-images.githubusercontent.com/57623682/208758277-58450190-0981-47cd-a8dc-1937ae18193a.PNG">
+<img width="400" alt="pic3" src="https://user-images.githubusercontent.com/57623682/208758296-bc6925b9-0b69-4c31-83ec-b6e8b52a6cab.PNG">
 
-<img width="400" alt="pic2" src="https://user-images.githubusercontent.com/57623682/208757012-283322d5-88fa-4760-8622-e1253cf217a1.PNG">
-
-<img width="400" alt="pic3" src="https://user-images.githubusercontent.com/57623682/208756941-50f027ff-8c4a-4a07-9397-a862f2503a21.PNG">
 
 ## Credit
 
