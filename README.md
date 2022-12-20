@@ -22,3 +22,10 @@ Welcome to the Student Tracker. This MERN Stack application is created with the 
 ## Credit
 
 https://www.positronx.io/react-mern-stack-crud-app-tutorial/
+
+
+## Goals for Future Updates
+
+add authentication
+add course names
+
