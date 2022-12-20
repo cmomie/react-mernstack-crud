@@ -26,6 +26,6 @@ https://www.positronx.io/react-mern-stack-crud-app-tutorial/
 
 ## Goals for Future Updates
 
-add authentication
-add course names
+1. add authentication
+2. add course/class for enrollment
 
