@@ -2,6 +2,10 @@
 
 Welcome to the Student Tracker. This MERN Stack application is created with the purpose of facilitating a tracking system of students that enroll in a specific course or class. ReactJS is used to build interface components and Bootstrap and CSS are used for quick and efficient styling. 
 
+## Wireframe
+
+<img width="390" alt="pic4" src="https://user-images.githubusercontent.com/57623682/208761997-1ea69f26-b604-458d-89fc-b24d2085b167.PNG">
+
 ## User Story
 
 1. As a user, I want to be able to create/add students that will enroll in the course.
