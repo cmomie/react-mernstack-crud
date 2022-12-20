@@ -11,7 +11,12 @@ Welcome to the Student Tracker. This MERN Stack application is created with the 
 
 ##  Wireframe
 
-##  ERD
+##  Overview
+<img
+  src="/path/to/pic1.png"
+  alt="Create Student"
+  title="Create-Student-Component"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Credit:
 
