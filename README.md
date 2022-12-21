@@ -30,6 +30,6 @@ https://www.positronx.io/react-mern-stack-crud-app-tutorial/
 2. Add course/class for enrollment
 3. Additional webpage/route for account creation with name, password, and email; input validation such as strings to ensure there is no white spaces
 4. Additional webpage/route for actual sign in page; validate input to check and see if the password and email matches the stored data in the database  
-5. Create 2nd table for user account info. 
+5. Create 2nd table for user account info
 
 
