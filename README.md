@@ -24,8 +24,12 @@ Welcome to the Student Tracker. This MERN Stack application is created with the 
 https://www.positronx.io/react-mern-stack-crud-app-tutorial/
 
 
-## Goals for Future Updates
+## Project Goals for Future Updates 
 
-1. add authentication
-2. add course/class for enrollment
+1. Add authentication
+2. Add course/class for enrollment
+3. Additional webpage/route for account creation with name, password, and email; input validation such as strings to ensure there is no white spaces
+4. Additional webpage/route for actual sign in page; validate input to check and see if the password and email matches the stored data in the database  
+5. Create 2nd table for user account info. 
+
 
